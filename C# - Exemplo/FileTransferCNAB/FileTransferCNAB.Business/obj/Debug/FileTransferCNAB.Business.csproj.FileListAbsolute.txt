@@ -1,0 +1,10 @@
+C:\Users\marcius.pimentel\Documents\Visual Studio 2015\Projects\FileTransferCNAB\FileTransferCNAB.Business\bin\Debug\FileTransferCNAB.Business.dll
+C:\Users\marcius.pimentel\Documents\Visual Studio 2015\Projects\FileTransferCNAB\FileTransferCNAB.Business\bin\Debug\FileTransferCNAB.Business.pdb
+C:\Users\marcius.pimentel\Documents\Visual Studio 2015\Projects\FileTransferCNAB\FileTransferCNAB.Business\obj\Debug\FileTransferCNAB.Business.dll
+C:\Users\marcius.pimentel\Documents\Visual Studio 2015\Projects\FileTransferCNAB\FileTransferCNAB.Business\obj\Debug\FileTransferCNAB.Business.pdb
+C:\Users\marcius.pimentel\Documents\Visual Studio 2015\Projects\FileTransferCNAB\FileTransferCNAB.Business\obj\Debug\FileTransferCNAB.Business.csprojResolveAssemblyReference.cache
+C:\Users\marcius.pimentel\Desktop\Boleto - Registro\Projetos\FileTransferCNAB\FileTransferCNAB.Business\bin\Debug\FileTransferCNAB.Business.dll
+C:\Users\marcius.pimentel\Desktop\Boleto - Registro\Projetos\FileTransferCNAB\FileTransferCNAB.Business\bin\Debug\FileTransferCNAB.Business.pdb
+C:\Users\marcius.pimentel\Desktop\Boleto - Registro\Projetos\FileTransferCNAB\FileTransferCNAB.Business\obj\Debug\FileTransferCNAB.Business.csprojResolveAssemblyReference.cache
+C:\Users\marcius.pimentel\Desktop\Boleto - Registro\Projetos\FileTransferCNAB\FileTransferCNAB.Business\obj\Debug\FileTransferCNAB.Business.dll
+C:\Users\marcius.pimentel\Desktop\Boleto - Registro\Projetos\FileTransferCNAB\FileTransferCNAB.Business\obj\Debug\FileTransferCNAB.Business.pdb

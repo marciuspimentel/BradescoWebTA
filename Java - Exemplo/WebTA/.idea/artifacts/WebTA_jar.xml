@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="WebTA:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WebTA_jar</output-path>
+    <root id="archive" name="WebTA.jar">
+      <element id="module-output" name="WebTA" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/Boleto - Registro/Banco Bradesco/Java/webta-cripto-java-v.1.1/Java/webta-cripto-v.1.4.jar" path-in-jar="/" />
+      <element id="library" level="module" name="webta-cripto-v.1.4.jar" module-name="WebTA" />
+    </root>
+  </artifact>
+</component>
