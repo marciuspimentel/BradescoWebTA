@@ -54,7 +54,7 @@ public class Encrypt {
                 //Le os dados do Arquivo a Ser Criptografado
                 InputStream inp = new FileInputStream(new File(sourcePath + "/" + sourceFile));
 
-                while((bytesRead = inp.read(bufDecripto,bytesRead,bufDecripto.length)) > 0)
+                while((bytesRead = inp.read(bufDecripto, 0, bufDecripto.length)) != -1)
                 {
                     wis.write(bufDecripto, 0, bytesRead);
                 }
